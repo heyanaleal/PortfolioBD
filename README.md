@@ -242,3 +242,138 @@ visualizações.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
+<div class="semestre2">
+<h3>Sistema de Gerenciamento de Clientes</h3>
+<h4>2º Semestre • 2/2020 • <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net">Dom Rock</a></p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/1.jpg" widht="20%"></img>
+<p align="justify">O desenvolvimento de uma solução na gestão de ativação do cliente na plataforma Dom Rock. Em busca de uma solução que seja orientada a entrada de dados de parâmetros e variáveis de cada cliente para alocar recursos na plataforma Dom Rock, entrada de dados e estimativa de consumo de recursos (baseado em volume de dados de cliente, quantidade de usuários e outros) e gere relatórios e consultas, mas, principalmente, tenha a base de dados modelada adequadamente para futuras integrações com outros sistemas.</h3></h3>
+<h3>Arquitetura do Banco de Dados</h3>
+<br>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/3.jpg"></img></p>
+<br>
+<h3>Prévia da Solução </h3>
+<p align="justify">O Sistema de Gerenciamento de Clientes - Dom Rock, desenvolvido em Java, oferece uma solução eficaz para cadastrar, consultar, editar e exportar dados de clientes. Com ênfase na segurança, a aplicação implementa níveis de acesso para usuários, garantindo a proteção dos dados armazenados. Além disso, a geração de logs proporciona um rastreamento detalhado das atividades na plataforma. Uma ferramenta completa e intuitiva para otimizar o gerenciamento de informações de clientes de maneira eficiente.</p>
+<br>
+<p align="center">
+    <img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/2.gif" alt="Image description">
+</p>
+<br>
+<h3>Funcionalidades</h3>
+<br>
+<details>
+  <summary><b>Gestão de Clientes</b></summary>
+  <br>
+  <p align="justify">O sistema permite o registro abrangente de informações dos clientes, incluindo dados de contato e endereço. Essa funcionalidade facilita a administração do relacionamento com o cliente, proporcionando uma visão consolidada e de fácil acesso..</p>
+</details>
+<br>	
+<details>
+  <summary><b>Catalogação de Soluções</b></summary>
+  <br>
+  <p align="justify">Uma base de dados mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso possibilita uma referência rápida e precisa sobre os produtos da empresa, facilitando tanto a equipe interna quanto os clientes.</p>
+</details>
+<br>
+<br>	
+<details>
+  <summary><b>Processo de Ativação</b></summary>
+  <br>
+  <p align="justify">O sistema define e gerencia o processo de ativação, segmentando-o em etapas específicas. Cada etapa está associada a recursos e definições predefinidos, garantindo uma ativação estruturada. Além disso, registra o progresso da ativação, permitindo uma visão clara do status de cada cliente.</p>
+</details>
+<br>
+<details>
+  <summary><b>Relatórios e Consultas</b></summary>
+  <br>
+  <p align="justify">Funcionalidades robustas de consulta e relatórios oferecem uma análise aprofundada dos dados. Os usuários podem visualizar métricas relevantes, como o desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights informam decisões estratégicas, proporcionando uma compreensão abrangente do ambiente operacional.</p>
+</details>
+<br>
+<h3>Tecnologias Utilizadas </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação back-end.</p>
+<p align="justify"><a href="https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html">JavaFX Scene Builder 3:</a> para desenvolvimento do front-end.</p>
+<p align="justify"><a href="https://azure.microsoft.com/pt-br/products/azure-sql/database/">SQL Server Nuvem Azure:</a> para o desenvolvimento do banco de dados.</p>
+<p align="justify"><a href="https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers">Eclipse Java:</a> IDE utilizada para a programação da aplicação.</p>
+<br>
+<h3>Contribuições Pessoais </h3>
+<p align="justify">Na função de Product Owner, fui responsável pelo levantamento de requisitos essenciais para a construção do backlog do produto. Além disso, assumi o papel de desenvolvedora front-end, desempenhando um papel integral na elaboração das interfaces e na integração eficiente entre o front-end e o back-end. Sendo as atividades desempenhadas:</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>Implementação de elementos visuais e interativos para melhorar a experiência do usuário.</li>
+  <li>Integração eficiente entre o front-end e o back-end.</li>
+  <li>Desenvolvimento das telas no front-end.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas </h3>
+<p align="justify">Tive meu primeiro contato com programação em Java, explorando os princípios da programação orientada a objetos. Além disso, realizei a primeira implementação utilizando banco de dados e explorei as possibilidades oferecidas pelo JavaFX para o frontend. Essa jornada não só ampliou meu entendimento em programação, mas também marcou minha experiência como Product Owner.</p>
+<h3>Hard Skills </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Front-end</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>SQL Server</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+<p align="justify"><b>Comunicação Assertiva:</b>Como Product Owner, a habilidade de comunicação assertiva tornou-se essencial. Manter uma comunicação clara e direta é crucial para alinhar expectativas, garantir compreensão entre as equipes e stakeholders, e tomar decisões informadas.</p>
+<p align="justify"><b>Resiliência:</b> Em um ponto crucial do projeto, fui chamado a assumir o papel de Product Owner. Diante desse desafio inesperado, desenvolvi a resiliência necessária para abraçar novas responsabilidades e garantir a continuidade e sucesso do projeto.</p>
+<br>
+</div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
+<hr>
