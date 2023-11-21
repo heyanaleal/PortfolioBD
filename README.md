@@ -376,3 +376,137 @@ visualizações.</p>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 <hr>
+<div class="semestre3">
+<h3>Dashboard de Dados Meteorológicos</h3>
+<h4>3º Semestre • 2/2022 • <a href="https://github.com/heyanaleal/Iacit">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.iacit.com.br">Iacit</a></p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/f2117e42012cb492ff5f0ec27cdaaabb9d8c0361/Imagens/3/1.jpg" widht="20%"></img>
+
+<h3>Prévia da Solução  </h3>
+<p align="justify">O projeto desenvolvido consistiu na criação de um Dashboard Meteorológico para a empresa Iacit, com o objetivo de oferecer uma solução automatizada para o download, processamento e armazenamento de dados meteorológicos em um banco de dados de fácil usabilidade. Por meio de um software web, os usuários puderam filtrar os dados por diversos parâmetros, tais como temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação. Além disso, o dashboard ofereceu diversas visualizações dos dados para facilitar a interpretação dos mesmos. O sistema foi criado para oferecer diferentes níveis de acesso aos usuários, desde usuários comuns até administradores. O painel administrativo permitiu a exportação de relatórios a partir dos dados coletados, proporcionando uma análise mais detalhada dos dados meteorológicos.</p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/f2117e42012cb492ff5f0ec27cdaaabb9d8c0361/Imagens/3/3.gif" widht="20%"></img>
+
+<h3>Arquitetura do Banco de Dados</h3>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/f2117e42012cb492ff5f0ec27cdaaabb9d8c0361/Imagens/3/2.jpg" widht="20%"></img>
+<br>
+<h3>Funcionalidades</h3>
+<details>
+  <summary><b>Cadastro de Estações</b></summary>
+  <br>
+  <p align="justify">A capacidade de cadastrar estados e regiões é essencial para contextualizar as operações em diferentes localidades. Com essa funcionalidade, é possível categorizar e organizar informações de acordo com as divisões político-administrativas, facilitando a análise de dados específicos por região. Isso é especialmente útil em contextos em que as operações variam de acordo com a localização geográfica.</p>
+</details>
+<br>
+<details>
+  <summary><b>Cadastro de Estados e Regiões</b></summary>
+  <br>
+  <p align="justify">A capacidade de cadastrar estados e regiões é essencial para contextualizar as operações em diferentes localidades. Com essa funcionalidade, é possível categorizar e organizar informações de acordo com as divisões político-administrativas, facilitando a análise de dados específicos por região. Isso é especialmente útil em contextos em que as operações variam de acordo com a localização geográfica.</p>
+</details>
+<br>
+<details>
+  <summary><b>Geração de Relatórios</b></summary>
+  <br>
+  <p align="justify">A geração de relatórios é uma funcionalidade crucial para extrair insights e avaliar o desempenho do sistema. Com a capacidade de criar relatórios personalizados, os usuários podem visualizar dados relevantes de diferentes perspectivas. Esses relatórios podem incluir informações sobre o estado das estações, o desempenho em diferentes regiões, tendências ao longo do tempo e outros indicadores essenciais para a tomada de decisões informadas.</p>
+</details>
+<br>
+<details>
+  <summary><b>Importação de Dados</b></summary>
+  <br>
+  <p align="justify">Para otimizar o processo de entrada de informações no sistema, a funcionalidade de importação de dados permite a rápida transferência de grandes conjuntos de dados.</p>
+</details>
+<br>
+<h3>Tecnologias Utilizadas  </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
+<p align="justify"><a href="https://www.python.org">Python:</a> linguagem de programação para o desenvolvimento back-end.</p>
+<p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
+<p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
+<p align="justify"><a href="https://www.w3schools.com/html/">HTML:</a>é utilizada para criar e estruturar conteúdo em páginas web.</a></p>
+<p align="justify"><a href="https://www.postgresql.org">PostgreSQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<br>
+<h3>Contribuições Pessoais  </h3>
+<p align="justify">Atuei como Product Owner, desempenhando um papel crucial na definição dos requisitos para a construção do backlog do produto e no entendimento das regras de negócio em colaboração estreita com o cliente. Minha responsabilidade também abrangeu uma parte significativa do desenvolvimento do back-end, assim como a criação e implementação dos gráficos. As atividades desempenhadas incluíram:</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>Estabelecimento de uma comunicação eficaz com o cliente.</li>
+  <li>Criação e Implementação de Gráficos.</li>
+  <li>Desenvolvimento front-end.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas </h3>
+<p align="justify">Tive a oportunidade de aprender, pela primeira vez, sobre Spring Boot, HTML e CSS. Além disso, pude aprimorar meus conhecimentos em atividades relacionadas a Product Owner, design de experiência do usuário e interface do usuário, e desenvolvimento visual do sistema.</h3>
+<h3>Hard Skills  </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Front-end</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>PostgreSQL</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills  </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+<p align="justify"><b>Inteligência Emocional:</b> O desenvolvimento da inteligência emocional é fundamental para fortalecer relacionamentos interpessoais e promover um ambiente de trabalho saudável e colaborativo.</p>
+<br>
+</div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
+<hr>
