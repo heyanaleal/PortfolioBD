@@ -243,7 +243,7 @@ visualizações.</p>
 <hr>
 <div class="semestre2">
 <h3>Sistema de Gerenciamento de Clientes</h3>
-<h4>2º Semestre • 2/2020 • <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
+<h4>2º Semestre • 1/2022 • <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net">Dom Rock</a></p>
 <p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/1.jpg" widht="20%"></img>
 <h3>Prévia da Solução </h3>
