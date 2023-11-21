@@ -106,17 +106,16 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 <!-- <p align="center"><img src="imagem" widht="20%"></img>
 	 -->
-<p align="justify">Com intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvido a SPanel, uma plataforma virtual que centraliza os principais dados da pandemia em uma interface fácil de navegar e entender.</p>
-<br>
+<h3>Prévia da Solução</h3>
+<p align="justify">Com intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvido a SPanel, uma plataforma virtual que centraliza os principais dados da pandemia em uma interface fácil de navegar e entender. O principal objetivo do SPanel era reunir e apresentar as informações da pandemia do COVID-19 no estado de São Paulo, de maneira simples e intuítiva, permitindo ao usuário diferentes tipos de
+visualizações.</p>
+<br>	
 <h3>Imagens do Projeto</h3>
 <p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/1c82b6d5f86b6f6d42a3e4b6f24abee2333af7b9/Imagens/1/1.png" width="100%"></img></p>
 <br>
 <p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/1c82b6d5f86b6f6d42a3e4b6f24abee2333af7b9/Imagens/1/2.png" width="100%"></img></p>
 <br>
-<h3>Prévia da Solução</h3>
-<p align="justify">O principal objetivo do SPanel era reunir e apresentar as informações da pandemia do COVID-19 no estado de São Paulo, de maneira simples e intuítiva, permitindo ao usuário diferentes tipos de
-visualizações.</p>
-<br>	
+<h3>Funcionalidades</h3>
 <details>
   <summary><b>Consulta dos dados da COVID-19 no estado de São Paulo</b></summary>
   <br>
@@ -247,11 +246,6 @@ visualizações.</p>
 <h4>2º Semestre • 2/2020 • <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net">Dom Rock</a></p>
 <p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/1.jpg" widht="20%"></img>
-<p align="justify">O desenvolvimento de uma solução na gestão de ativação do cliente na plataforma Dom Rock. Em busca de uma solução que seja orientada a entrada de dados de parâmetros e variáveis de cada cliente para alocar recursos na plataforma Dom Rock, entrada de dados e estimativa de consumo de recursos (baseado em volume de dados de cliente, quantidade de usuários e outros) e gere relatórios e consultas, mas, principalmente, tenha a base de dados modelada adequadamente para futuras integrações com outros sistemas.</h3></h3>
-<h3>Arquitetura do Banco de Dados</h3>
-<br>
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/3.jpg"></img></p>
-<br>
 <h3>Prévia da Solução </h3>
 <p align="justify">O Sistema de Gerenciamento de Clientes - Dom Rock, desenvolvido em Java, oferece uma solução eficaz para cadastrar, consultar, editar e exportar dados de clientes. Com ênfase na segurança, a aplicação implementa níveis de acesso para usuários, garantindo a proteção dos dados armazenados. Além disso, a geração de logs proporciona um rastreamento detalhado das atividades na plataforma. Uma ferramenta completa e intuitiva para otimizar o gerenciamento de informações de clientes de maneira eficiente.</p>
 <br>
@@ -259,6 +253,11 @@ visualizações.</p>
     <img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/2.gif" alt="Image description">
 </p>
 <br>
+<h3>Arquitetura do Banco de Dados</h3>
+<br>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/3.jpg"></img></p>
+<br>
+
 <h3>Funcionalidades</h3>
 <br>
 <details>
