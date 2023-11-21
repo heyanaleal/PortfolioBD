@@ -25,7 +25,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <ul><a href="#dom-rock">2º Semestre • 1/2022 • Dom Rock</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Banco de dados</a></ul>
     <ul>◻️ <a href="#prévia-da-solução-">Prévia da Solução</a></ul>
     <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
@@ -41,7 +41,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <ul><a href="#iacit">3º Semestre • 2/2022 • Iacit</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Banco de dados</a></ul>
     <ul>◻️ <a href="#prévia-da-solução--">Prévia da Solução</a></ul>
     <ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
@@ -56,7 +56,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <ul><a href="#aircraft">4º Semestre • 1/2023 • AIRCRAFT</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Banco de dados</a></ul>
     <ul>◻️ <a href="#prévia-da-solução---">Prévia da Solução</a></ul>
     <ul>◻️ <a href="#tecnologias-utilizadas---">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-pessoais---">Contribuições Pessoais</a></ul>
@@ -65,7 +65,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
     <ul>◻️ <a href="#hard-skills---">Soft Skills</a></ul>
     </ul>
   </details>
-</ul>
+<!-- </ul>
 </div>
 <div class="semestre5">
 <ul><a href="#data-rangers">5º Semestre • 1/2022 • Data Rangers</a>
@@ -94,7 +94,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
     <ul>◻️ <a href="#hard-skills-----">Hard Skills</a></ul>
     <ul>◻️ <a href="#hard-skills-----">Soft Skills</a></ul>
     </ul>
-  </details>
+  </details> -->
 </ul>
 </div>
 <hr>
@@ -505,6 +505,141 @@ visualizações.</p>
 </details>
 <br>
 <p align="justify"><b>Inteligência Emocional:</b> O desenvolvimento da inteligência emocional é fundamental para fortalecer relacionamentos interpessoais e promover um ambiente de trabalho saudável e colaborativo.</p>
+<br>
+</div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
+<hr>
+<div class="semestre4">
+<h3>Dashboard de Dados Meteorológicos</h3>
+<h4>4º Semestre • 1/2023 • <a href="https://github.com/heyanaleal/apiEmbraer4-sem">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://embraer.com/br/ptr">Embraer</a></p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/ddd51aee067e26fc6ee546887cfdde1d638b83db/Imagens/4/1.png" widht="20%"></img>
+
+<h3>Prévia da Solução  </h3>
+<p align="justify">Desenvolvimento de um software web para a Embraer que permitirá aos usuários acessar toda a documentação de maneira simples e intuitiva por meio de dispositivos móveis, tornando possível acessar o manual em qualquer lugar e a qualquer momento</p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/ddd51aee067e26fc6ee546887cfdde1d638b83db/Imagens/4/2.gif" widht="20%"></img>
+
+<h3>Arquitetura do Banco de Dados</h3>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/ddd51aee067e26fc6ee546887cfdde1d638b83db/Imagens/4/4.png" widht="20%"></img>
+<br>
+<h3>Funcionalidades</h3>
+<details>
+  <summary><b>Estrutura e Persistência de Dados no Banco de Dados</b></summary>
+  <br>
+  <p align="justify"> Estabelecimento da estrutura de dados necessária e implementada a persistência desses dados no banco de dados. Proporcionando uma base sólida para as funcionalidades subsequentes, garantindo a integridade e confiabilidade das informações armazenadas.</p>
+</details>
+<br>
+<details>
+  <summary><b>Interface de Consulta para Itens Opcionais de Veículos</b></summary>
+  <br>
+  <p align="justify"> Visualização da lista de itens opcionais disponíveis para veículos.</p>
+</details>
+<br>
+<details>
+  <summary><b>Sistema de Configuração de Notificações para Atualizações </b></summary>
+  <br>
+  <p align="justify">Configuração de notificações para atualizações. Isso permite que os usuários possam receber alertas personalizáveis sobre mudanças relevantes no sistema, garantindo sempre  estarem informados e atualizados.</p>
+</details>
+<br>
+<details>
+  <summary><b>Interface Administrativa para Modificação e Remoção de Clientes</b></summary>
+  <br>
+  <p align="justify">Criação da interface administrativa, permitindo que os administradores modifiquem e removam clientes do banco de dados.</p>
+</details>
+<br>
+<h3>Tecnologias Utilizadas  </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
+<p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
+<p align="justify"><a href="https://vuejs.org">VueJS:</a> Vue.js:</a> é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.</p>
+<p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
+<p align="justify"><a href="https://www.oracle.com/autonomous-database/">Autonomous Database:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<br>
+<h3>Contribuições Pessoais  </h3>
+<p align="justify">Exerci a função de Product Owner, desempenhando um papel crucial na definição dos requisitos para a construção do backlog do produto e na compreensão das regras de negócio, em colaboração estreita com o cliente. Além disso, assumi a responsabilidade pela criação do front-end, desenvolvendo todas as telas da aplicação e garantindo sua responsividade para dispositivos móveis. As atividades desempenhadas abrangeram:</p>
+<ul>
+  <li> Definição e priorização de requisitos do produto;</li>
+  <li> Colaboração constante com o cliente para compreensão das necessidades e expectativas;</li>
+  <li> Desenvolvimento e manutenção do backlog do produto;</li>
+  <li> Criação do design e implementação do front-end da aplicação;</li>
+  <li> Garantia da responsividade da aplicação para dispositivos móveis;</li>
+  <li> Iterações frequentes com a equipe de desenvolvimento para alinhamento de metas e progresso.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas </h3>
+<p align="justify">Ao explorar o framework Vue.js pela primeira vez, fiquei empolgada com sua simplicidade e facilidade de uso. A suavidade na curva de aprendizado permitiu uma rápida compreensão, proporcionando uma experiência cativante ao criar interações dinâmicas em tempo real. Essa introdução não apenas expandiu minhas habilidades, mas também fortaleceu minha paixão pelo desenvolvimento web.</h3>
+<h3>Hard Skills  </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Front-end</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Autonomous Database</td>
+      <td>★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills  </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+<p align="justify"><b>Inteligência Emocional: </b>A habilidade de organização e planejamento desempenhou um papel fundamental ao assumir as funções de Product Owner e desenvolvedora front-end. Essas responsabilidades exigiram uma gestão eficaz do backlog do produto, definição clara de requisitos e colaboração próxima com as partes interessadas. A capacidade de planejar eficientemente as iterações, priorizar tarefas e manter uma comunicação transparente foi crucial para garantir o sucesso na entrega de um produto alinhado às expectativas do cliente e com um front-end funcional e atraente.</p>
 <br>
 </div>
 <br>
