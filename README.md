@@ -128,9 +128,9 @@ Facilitava o acesso aos dados da aplicação pelo celular, tornando a experiênc
 ### Visão do Projeto
 <p align="justify">O Sistema de Gerenciamento de Clientes - Dom Rock, proporcionou uma solução para cadastro, consulta, edição e exportação de dados de clientes. Com foco na segurança, a aplicação implementou níveis de acesso para os usuários, garantindo a proteção dos dados. Além disso, a geração de logs permitiu um rastreamento detalhado das atividades na plataforma. Foi uma ferramenta completa e intuitiva que otimizou o gerenciamento de informações de clientes de forma eficiente.</p>
 
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/2.gif" width="100%"></img></p>
+<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/2/2.gif" width="100%"></img></p>
 <br>
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/a04b9761aacdd5b0104f4141225f61f0999ce7a9/Imagens/2/3.jpg" width="100%"></img></p>
+<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/2/3.jpg" width="100%"></img></p>
 
 #### Funcionalidades
 <details>
