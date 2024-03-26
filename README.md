@@ -28,9 +28,9 @@
 ### Visão do Projeto
 <p align="justify">Com o intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvida a SPanel, uma plataforma que centralizou os principais dados da pandemia em uma interface de fácil navegação e entendimento. O principal objetivo da SPanel era reunir e apresentar as informações da pandemia da (COVID-19) no estado de São Paulo, de maneira simples e intuitiva, permitindo ao usuário diferentes tipos de visualizações.</p>
 
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/1c82b6d5f86b6f6d42a3e4b6f24abee2333af7b9/Imagens/1/1.png" width="100%"></img></p>
+<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/1.png" width="100%"></img></p>
 <br>
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/1c82b6d5f86b6f6d42a3e4b6f24abee2333af7b9/Imagens/1/2.png" width="100%"></img></p>
+<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/2.png" width="100%"></img></p>
 
 #### Funcionalidades
 
