@@ -441,7 +441,7 @@ Criação de uma interface administrativa que permite aos administradores modifi
 
 <p align="justify">Foi desenvolvida uma plataforma online que permitia aos donos de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo era criar um sistema abrangente que oferecesse recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.</p>
 
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/5f7220450899be73d97d53f1f374f3f574f2d6d4/Imagens/5/2.gif" width="100%"></img></p>
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/bdec003eed03643f99d98f26d90118eb39682cfe/Imagens/5/2.gif" width="100%"></img></p>
 
 #### Funcionalidades
 
