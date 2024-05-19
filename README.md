@@ -112,10 +112,10 @@ Facilitava o acesso aos dados da aplicação pelo celular, tornando a experiênc
 ### Soft Skills
 
 **Organização e Planejamento**
-- <p align="justify">Durante o projeto, aprimorei minha capacidade de organização e planejamento, reconhecendo-as como fundamentais para o sucesso da equipe. A habilidade de planejar e estruturar minhas tarefas de forma eficiente, com a organização adequada dos recursos, contribuiu para cumprir prazos e manter o projeto em andamento de maneira eficaz.</p>
+- <p align="justify">Durante o projeto, melhorei minha capacidade de me organizar e planejar, percebendo sua importância fundamental para o sucesso da equipe. Inicialmente enfrentei desafios com tecnologias desconhecidas, mas ao longo do tempo aprendi a me adaptar. Compreendi a necessidade de ajustar constantemente as estratégias para cumprir os prazos e manter o projeto fluindo.</p>
 
 **Proatividade**
-- <p align="justify">Durante o projeto, desenvolvi e fortaleci minha proatividade, uma qualidade que me permitiu antecipar desafios, identificar oportunidades e agir de forma ativa para alcançar nossos objetivos de maneira eficaz.</p>
+- <p align="justify">Durante o projeto, notei um crescimento significativo na minha proatividade. Cada desafio representava uma oportunidade de aprendizado e contribuição. Aprendi a antecipar obstáculos, identificar oportunidades de melhoria e agir rapidamente. Sempre me coloquei à disposição para enfrentar novos desafios, buscando extrair o máximo de aprendizado possível em cada situação.</p>
 
 <a href="https://github.com/heyanaleal/SPanel">Repositório Github</a></h4>
 
@@ -142,7 +142,7 @@ O sistema permitiu o registro completo de informações dos clientes, abrangendo
 <details>
   <summary><b>Catalogação de Soluções</b></summary>
   
-Criação de uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporcionaVA uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
+Criação de uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporcionava uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
 </details>
 
 <details>
@@ -160,11 +160,10 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 ### Tecnologias Utilizadas
 <ul>
   <li><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação back-end.</li>
-  <li><a href="https://www.python.org">Python:</a> linguagem de programação para o desenvolvimento back-end.</li>
-  <li><a href="https://spring.io/">Spring Boot:</a> Framework para Java utilizado para facilitar a configuração e o gerenciamento das dependências do projeto.</li>
-  <li><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação front-end.</li>
-  <li><a href="https://www.w3schools.com/html/">HTML:</a> utilizada para criar e estruturar conteúdo em páginas web.</li>
-  <li><a href="https://www.postgresql.org">PostgreSQL:</a> sistema de Gerenciamento de Banco de Dados utilizado para o desenvolvimento do Banco de Dados.</li>
+  <li><a href="https://www.oracle.com/br/java/technologies/javase-javafx-overview.html">JavaFX Scene Builder 3:</a> ferramenta para criar interfaces gráficas de usuário de forma visual em JavaFX.</li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS:</a><span> utilizado para estilização.</span></li>
+  <li><a href="https://www.microsoft.com/pt-br/sql-server">SQL Server no Azure:</a> tecnologia de banco de dados relacional na nuvem para gerenciamento eficiente de dados.</li>
+
 </ul>
 
 ### Contribuições pessoais
@@ -207,13 +206,13 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 ### Soft Skills
 
 **Comunicação Assertiva**
-- <p align="justify">Como Product Owner, a comunicação assertiva foi fundamental para o sucesso do projeto. Fui responsável por transmitir claramente os requisitos do cliente à equipe de desenvolvimento, garantindo que todos compreendessem as expectativas e prioridades. A habilidade de comunicar de forma clara e direta contribuiu para o alinhamento da equipe e o cumprimento dos objetivos do projeto.</p>
+- <p align="justify">Como Product Owner, percebi o quanto uma comunicação clara foi essencial para o sucesso do projeto. Minha responsabilidade era transmitir os desejos do cliente à equipe de desenvolvimento de forma direta e fácil de entender. Garantir que todos estivessem na mesma página foi um desafio, mas abracei com determinação. Essa habilidade de comunicação ajudou muito a manter a equipe alinhada e a alcançar nossos objetivos.</p>
 
 **Inteligência Emocional**
-- <p align="justify">Durante o desenvolvimento do projeto, a inteligência emocional desempenhou um papel essencial na gestão das relações interpessoais e na resolução de conflitos. Encontrei situações desafiadoras que exigiram calma, empatia e capacidade de compreender as emoções dos membros da equipe. Ao aplicar a inteligência emocional, pude manter um ambiente de trabalho positivo, motivador e colaborativo, mesmo diante de desafios e pressões.</p>
+- <p align="justify">Durante o desenvolvimento do projeto, descobri que minha inteligência emocional desempenhou um papel essencial na gestão das relações interpessoais e na resolução de conflitos. Encontrei situações desafiadoras que exigiram calma, empatia e a capacidade de compreender as emoções dos membros da equipe, especialmente quando surgiram divergências de ideias e alguns colegas não estavam tão engajados quanto eu esperava. Ao aplicar a inteligência emocional, consegui manter um ambiente de trabalho positivo, motivador e colaborativo, mesmo quando enfrentávamos pressões e obstáculos.</p>
 
 **Resiliência**
-- <p align="justify">A resiliência foi uma qualidade fundamental em frente aos obstáculos e contratempos que surgiram durante o desenvolvimento do projeto. Em momentos de dificuldade, foi necessário se adaptar de forma rápida, aprender com os erros e seguir em frente com determinação. A capacidade de lidar com a pressão, superar os problemas e persistir na busca por soluções foi essencial para alcançar os objetivos. A resiliência foi essencial para enfrentar os desafios com confiança e manter o foco na busca por bons resultados.</p>
+- <p align="justify">Durante o projeto, aprendi que é preciso ser resiliente diante dos obstáculos. Houve momentos difíceis em que tive que me adaptar rapidamente, aprender com os erros e seguir em frente com confiança. Lidar com a pressão e os desafios foi complicado, mas a resiliência me permitiu persistir e focar em encontrar soluções positivas.</p>
 
 <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
 
@@ -238,19 +237,19 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 <details>
   <summary><b>Cadastro de Estados e Regiões</b></summary>
   
-Organizar e categorizar operações. Facilitado análises específicas por região, melhorando a contextualização das informações.
+O cadastro de Estados e Regiões proporcionou uma organização precisa das operações, permitindo análises específicas por região e melhorando consideravelmente a contextualização das informações.
 </details>
 
 <details>
   <summary><b>Geração de Relatórios</b></summary>
   
-Extrair insights e avaliar o desempenho do sistema. Permitindo criar relatórios personalizados para visualização de dados de diferentes perspectivas. Incluindo informações detalhadas sobre o estado das estações, desempenho regional e tendências temporais.
+A geração de Relatórios foi uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permitiu uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
 </details>
 
 <details>
   <summary><b>Importação de Dados</b></summary>
   
-Otimização do processo de entrada de informações no sistema. Facilitando a transferência rápida de grandes conjuntos de dados para atualização eficiente.
+A Importação de Dados otimizou o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegurou uma atualização eficiente do sistema, mantendo sempre atualizado e pronto para fornecer análises precisas.
 </details>
 
 ### Tecnologias Utilizadas
@@ -258,9 +257,10 @@ Otimização do processo de entrada de informações no sistema. Facilitando a t
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem utilizada para desenvolvimento da aplicação back-end.
 - [Spring Boot](https://spring.io/): framework para Java usado para simplificar a configuração e gerenciamento de dependências do projeto.
 - [JavaScript](https://www.javascript.com/): linguagem utilizada para desenvolvimento da aplicação front-end.
-- [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
 - [HTML](https://www.w3schools.com/html/): utilizada para criar e estruturar conteúdo em páginas web.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): utilizado para estilização do dashboard.
 - [Chart.js](https://www.chartjs.org): biblioteca de gráficos JavaScript simples, porém flexível, para a web moderna.
+- [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
 
 ### Contribuições pessoais
 <p align="justify">Atuei como Product Owner, sendo responsável pela definição dos requisitos para o backlog do produto e pelo entendimento das regras de negócio em colaboração com o cliente. Além disso, participei ativamente do desenvolvimento do back-end e da criação e implementação de gráficos. Algumas das minhas atribuições incluíram:</p>
@@ -313,13 +313,13 @@ Otimização do processo de entrada de informações no sistema. Facilitando a t
 ### Soft Skills
 
 **Visão de Negócio**
-- <p align="justify">Durante o projeto, consegui profundar minha compreensão das necessidades do cliente, orientando a equipe na tomada de decisões estratégicas. Minha visão de negócio permitiu identificar oportunidades de crescimento e ajustar nossa abordagem para melhorar os resultados.</p>
+- <p align="justify">Durante o curso do projeto, adquiri uma compreensão mais profunda das necessidades do cliente, o que foi essencial na orientação estratégica da equipe. Identifiquei oportunidades de crescimento e ajustei nossa abordagem para otimizar os resultados.</p>
 
 **Trabalho em Equipe**
-- <p align="justify">Como parte do grupo, ajudei a contribuí para promover uma cultura colaborativa, incentivando a troca de ideias e a coesão entre os membros.</p>
+- <p align="justify">Como membro integrante do grupo, atuei ativamente na promoção de uma cultura colaborativa, incentivando a livre troca de ideias e fortalecendo a equipe. Acredito que a colaboração é fundamental para o sucesso de qualquer projeto.</p>
 
 **Resiliência**
-- <p align="justify">Diante de problemas e contratempos, mostrei que sou resistente ao não desistir dos meus objetivos e buscar jeitos criativos de resolver os problemas.</p>
+- <p align="justify">Enfrentamos desafios significativos ao longo do projeto, no entanto, mantive uma postura resiliente diante das adversidades. Em vez de desistir nas dificuldades, busquei abordagens criativas para superá-las, mantendo sempre o foco nos objetivos estabelecidos.</p>
 
 <a href="https://github.com/heyanaleal/Iacit">Repositório Github</a></h4>
 
@@ -345,25 +345,25 @@ Otimização do processo de entrada de informações no sistema. Facilitando a t
 <details>
   <summary><b>Estruturação e Persistência de Dados no Banco de Dados</b></summary>
   
-Estrutura de dados necessária e implementação da persistência desses dados no banco de dados. Essa etapa criou uma base sólida para as funcionalidades, garantindo a integridade e confiabilidade das informações armazenadas.
+Foi Projetada e implementada uma estrutura de dados adequada para armazenar informações sobre veículos, clientes e itens opcionais no banco de dados.
 </details>
 
 <details>
   <summary><b>Interface de Consulta para Itens Opcionais de Veículos</b></summary>
   
-Desenvolvimento de uma interface que permite aos usuários visualizarem a lista de itens opcionais disponíveis para veículos.
+Uma interface amigável foi desenvolvida para permitir aos usuários visualizarem facilmente a lista de itens opcionais disponíveis para os veículos.
 </details>
 
 <details>
   <summary><b>Sistema de Configuração de Notificações para Atualizações</b></summary>
   
-Implementação de um sistema que possibilita aos usuários configurarem notificações para atualizações. Isso permite que os usuários recebam alerta personalizáveis sobre mudanças relevantes no sistema, garantindo que estejam sempre informados e atualizados.
+Implentação de um sistema que permite aos usuários configurarem notificações para receberem alertas personalizados sobre atualizações relevantes no sistema.
 </details>
 
 <details>
   <summary><b>Interface Administrativa para Modificação e Remoção de Clientes</b></summary>
   
-Criação de uma interface administrativa que permite aos administradores modificarem e removerem clientes do banco de dados com facilidade e segurança.
+A interface administrativa foi criada para permitir aos administradores realizar modificações e remoções de clientes do banco de dados com facilidade e segurança.
 </details>
 
 ### Tecnologias adotadas na solução
@@ -422,10 +422,10 @@ Criação de uma interface administrativa que permite aos administradores modifi
 ### Soft Skills
 
 **Empatia**
-- <p align="justify">Aprimorei minha habilidade de empatia ao trabalhar em equipe, compreendendo as necessidades e preocupações dos meus colegas. Ao demonstrar interesse pelo bem-estar de todos, fortaleci os laços interpessoais e promovi um ambiente de colaboração positivo.</p>
+- <p align="justify">Durante o projeto, foquei em entender melhor meus colegas. Fiquei atenta às suas necessidades e preocupações, o que fortaleceu nossos laços. Isso criou um ambiente de trabalho mais positivo e colaborativo.</p>
 
 **Trabalho em equipe**
-- <p align="justify">Ao longo do projeto, valorizei a importância do trabalho em equipe e da colaboração mútua. Através da comunicação aberta e da divisão eficiente de tarefas, alcançamos resultados além das expectativas, aproveitando ao máximo as habilidades e experiências de cada membro da equipe.</p>
+- <p align="justify">Valorizei muito o trabalho em equipe. Aprendi que quando cada um contribui com suas habilidades e experiências, conseguimos resultados incríveis. Dividimos as tarefas de forma eficiente e mantivemos uma comunicação aberta, o que nos permitiu superar as expectativas.</p>
 
 <a href="https://github.com/heyanaleal/apiEmbraer4-sem">Repositório Github</a></h4>
 
@@ -512,7 +512,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Soft Skills
 
 **Planejamento e Organização**
-- <p align="justify">Para garantir o cumprimento eficiente das tarefas atribuídas, adotei uma abordagem de planejamento e organização do tempo. Priorizei as atividades conforme os prazos e a complexidade, assegurando uma execução eficaz do projeto.</p>
+- <p align="justify">Adotei uma abordagem atenta no planejamento e organização das minhas tarefas para garantir o sucesso do projeto. Priorizei as atividades com base em prazos e complexidade, o que resultou em uma execução eficiente e pontual. Essa estratégia contribuiu  positivamente para o alcance dos objetivos dentro do cronograma estabelecido.</p>
 
 **Proatividade**
 - <p align="justify">Demonstrei proatividade ao oferecer ajuda e suporte aos colegas sempre que necessário. Antecipei possíveis obstáculos e tomei medidas para resolvê-los, contribuindo para o progresso contínuo do projeto e o bem-estar da equipe.</p>
