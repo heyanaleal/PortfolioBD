@@ -93,19 +93,19 @@ Facilitava o acesso aos dados da aplicação pelo celular, tornando a experiênc
   </tr>
   <tr>
     <td>Python</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★☆☆☆</td>
   </tr>
   <tr>
     <td>Plotly</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★☆☆</td>
   </tr>
   <tr>
     <td>CSS</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>★★★☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>★★★☆☆</td>
   </tr>
 </table>
 
@@ -186,19 +186,19 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>JavaFX</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>SQL Server</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Scrum - Product Owner</td>
-      <td>★★★★★★☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
   </table>
 </details>
@@ -253,8 +253,8 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 </details>
 
 ### Tecnologias Utilizadas
-- [Python](https://www.python.org): linguagem de programação para o desenvolvimento back-end.
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem utilizada para desenvolvimento da aplicação back-end.
+- [Python](https://www.python.org): linguagem de programação para o desenvolvimento back-end.
 - [Spring Boot](https://spring.io/): framework para Java usado para simplificar a configuração e gerenciamento de dependências do projeto.
 - [JavaScript](https://www.javascript.com/): linguagem utilizada para desenvolvimento da aplicação front-end.
 - [HTML](https://www.w3schools.com/html/): utilizada para criar e estruturar conteúdo em páginas web.
@@ -281,31 +281,23 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-      <tr>
-      <td>CSS</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Chart.js</td>
-      <td>★★★★★★★☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Scrum - Product Owner</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
 </details>
@@ -399,23 +391,23 @@ A interface administrativa foi criada para permitir aos administradores realizar
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★★★★★☆☆☆</td>
+      <td>★★★★☆</td>
+    </tr>
+     <tr>
+      <td>Java Script</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>VueJs</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Autonomous Database</td>
-      <td>★★★★☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Scrum - Product Owner</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
 
@@ -473,6 +465,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
 - [Vue.js](https://vuejs.org): Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.
 - [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
+- [Oracle Analytics](https://www.oracle.com/business-analytics/): plataforma para análise de dados e geração de insights para auxiliar na tomada de decisões empresariais.
 - [Autonomous Database](https://www.oracle.com/autonomous-database/): SGBD para desenvolvimento do Banco de Dados.
 - [Figma](https://www.figma.com/): ferramenta para o desenvolvimento e prototipação das wireframes. 
 
@@ -497,15 +490,15 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
   </tr>
   <tr>
     <td>Java</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★☆</td>
   </tr>
   <tr>
     <td>Spring Boot</td>
-    <td>★★★★★★★★☆☆</td>
+    <td>★★★★☆</td>
   </tr>
   <tr>
     <td>Autonomous Database</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>★★★★☆</td>
   </tr>
 </table>
 
@@ -515,7 +508,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 - <p align="justify">Adotei uma abordagem atenta no planejamento e organização das minhas tarefas para garantir o sucesso do projeto. Priorizei as atividades com base em prazos e complexidade, o que resultou em uma execução eficiente e pontual. Essa estratégia contribuiu  positivamente para o alcance dos objetivos dentro do cronograma estabelecido.</p>
 
 **Proatividade**
-- <p align="justify">Demonstrei proatividade ao oferecer ajuda e suporte aos colegas sempre que necessário. Antecipei possíveis obstáculos e tomei medidas para resolvê-los, contribuindo para o progresso contínuo do projeto e o bem-estar da equipe.</p>
+- <p align="justify">Demonstrei proatividade ao oferecer suporte aos colegas e antecipar possíveis obstáculos. Minha iniciativa em identificar e resolver problemas de forma antecipada contribuiu para manter o projeto em progresso contínuo e para preservar o bem-estar da equipe.</p>
 
 <a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
 
