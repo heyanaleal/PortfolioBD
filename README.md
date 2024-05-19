@@ -398,7 +398,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
       <td>★★★★☆</td>
     </tr>
      <tr>
-      <td>Java Script</td>
+      <td>JavaScript</td>
       <td>★★★☆☆</td>
     </tr>
     <tr>
@@ -513,19 +513,118 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 <a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
 
 ---
-<!-- 
-## <a name="6º-semestre"></a> 6º Semestre
+ 
+## <a name="6º-semestre"></a> 6º Semestre • 1/2024 - PandaLuze
 
+<p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.img.com.br/pt-br/home" style="color: #007bff; text-decoration: none;">Imagem</a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Fluffy-Fatec/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg" width="100%"></img></p>
 
 ### Visão do Projeto
-- Descrição da visão geral do projeto para o segundo semestre.
+
+<p align="justify">No Projeto PandaLuze, buscamos entender profundamente o sentimento dos clientes através de uma plataforma avançada de análise de avaliações online. Utilizando tecnologias inovadoras, desenvolvemos um sistema que mapeava e visualizava os sentimentos dos clientes em um contexto geográfico real. Isso permitiu visualizar insights precisos para possibilitar às empresas ajustarem suas estratégias de negócios.</p>
+
+<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/bdec003eed03643f99d98f26d90118eb39682cfe/Imagens/5/2.gif" width="100%"></img></p>
+
+#### Funcionalidades
+
+<details>
+  <summary><b>Visão Geral da Análise de Sentimento</b></summary>
+Esta funcionalidade oferecia aos usuários uma visão consolidada da análise de sentimento em uma única tela. Eles podiam visualizar métricas-chave de sentimentos através de gráficos e tabelas, permitindo uma compreensão rápida e abrangente do panorama geral.
+
+</details>
+<details>
+  <summary><b>Exploração Geográfica Interativa</b></summary>
+O recurso de exploração geográfica interativa permitia aos usuários explorar a distribuição geográfica dos dados em um mapa interativo. Isso facilitava a compreensão de como os sentimentos dos clientes variavam de acordo com a localização, fornecendo insights valiosos para ajustes estratégicos.
+
+</details>
+<details>
+  <summary><b>Sistema de Permissões e Login Seguro</b></summary>
+O sistema de permissões e login seguro garantia que os usuários acessassem apenas as informações relevantes e protegiam os dados sensíveis. Os diferentes níveis de acesso garantiam a segurança e a privacidade dos dados, enquanto o login seguro por e-mail e senha fornecia uma camada adicional de proteção.
+
+</details>
+<details>
+  <summary><b>Edição de Perfil e Alteração de Senha</b></summary>
+Os recursos de edição de perfil e alteração de senha permitiam aos usuários gerenciar suas informações pessoais com facilidade. Eles podiam atualizar seus dados, como nome, e-mail e senha, conforme necessário, garantindo precisão e segurança em suas contas.
+
+</details>
+<details>
+  <summary><b>Filtragem Avançada e Visualização em Tabela</b></summary>
+A capacidade de filtragem avançada e visualização em tabela oferecia aos usuários uma maneira eficiente de explorar e analisar os dados. Eles podiam filtrar os dados por categoria de sentimento e período, além de visualizá-los em uma tabela única para uma compreensão mais detalhada e abrangente.
+
+</details>
+<details>
+  <summary><b>Expiração de Sessão e Notificações</b></summary>
+A funcionalidade de expiração de sessão e notificações garantia a segurança e a conveniência dos usuários. As sessões expiravam automaticamente após um determinado período de inatividade, enquanto as notificações alertavam os usuários sobre as solicitações de alterações e a necessidade de aprovação das mesmas.
+
+</details>
+<details>
+  <summary><b>Logout Manual</b></summary>
+O logout manual oferecia aos usuários controle sobre suas próprias sessões. Eles podiam encerrar a sessão manualmente a qualquer momento, garantindo a segurança e a privacidade de seus dados.
+
+</details>
 
 ### Tecnologias adotadas na solução
-- Lista das tecnologias específicas escolhidas para o projeto durante o segundo semestre.
+
+- [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
+- [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
+- [Python](https://www.java.com/pt-BR/): é uma linguagem de programação de alto nível amplamente utilizada para análise de dados, machine learning, desenvolvimento web e uma variedade de outras aplicações.
+- [React](https://react.dev/): React é uma biblioteca JavaScript de código-aberto, focalizada no desenvolvimento de interfaces de usuário.
+- [Material-UI](https://mui.com/material-ui/getting-started/installation/): é uma biblioteca de componentes React para construir interfaces de usuário consistentes e bonitas.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): utilizado para estilização do dashboard.
+- [ApexCharts](https://www.oracle.com/business-analytics/): é uma biblioteca JavaScript de gráficos interativos de código-aberto, que oferece uma ampla gama de opções para visualização de dados.
+- [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
+- [Figma](https://www.figma.com/): ferramenta para o desenvolvimento e prototipação das wireframes. 
 
 ### Contribuições pessoais
-- Destaque das próprias contribuições para o projeto durante o segundo semestre.
 
-### Aprendizados Efetivos Hard Skills
-- Principais aprendizados obtidos durante o segundo semestre, focando em habilidades técnicas (hard skills).
--->
+<p align="justify">Como desenvolvedora front-end, utilizei o React, Material-UI e CSS para criar as interfaces gráficas o mais componentizadas possível. Esta foi a primeira vez que trabalhei com o React em um projeto de grande escala, o que me permitiu compreender o funcionamento dessa tecnologia, bem como a importância dos hooks e da componentização, além da organização de pastas durante o desenvolvimento do projeto. Também estive envolvida na implementação de funcionalidades como níveis de usuários, gerenciamento de rotas e aspectos relacionados à segurança.
+O framework foi fundamental para agilizar o desenvolvimento das páginas, permitindo uma otimização significativa do nosso trabalho. Além disso, embora tenha aplicado meu conhecimento prévio em CSS de maneira diferente do habitual, isso foi essencial para realizar customizações de forma eficaz.
+Contribuí para a implementação dos gráficos, inicialmente utilizando a biblioteca do Google. No entanto, após uma análise mais detalhada, decidimos migrar para o ApexCharts, o que nos proporcionou uma formatação mais flexível dos gráficos, tornando-os mais agradáveis e intuitivos para o usuário. Também trabalhamos na geração de relatórios e notificações. Minhas principais atividades foram:
+</p>
+
+- <p align="justify">Componentização das interfaces para maximizar a reutilização de código.</p>
+- <p align="justify">Desenvolvimento de funcionalidades como níveis de usuários, gerenciamento de rotas e aspectos relacionados à segurança.</p>
+- <p align="justify">Implementação de gráficos.</p>
+- <p align="justify">Implementação de relatórios.</p>
+- <p align="justify">Desenvolvimento do dashboard.</p>
+
+**Lições Aprendidas:**
+
+<p align="justify">Minha experiência como desenvolvedora front-end neste semestre destacou que o conhecimento prévio em uma ferramenta específica pode facilitar a aprendizagem de novas tecnologias. Além disso, percebi que o aprendizado é contínuo e é essencial estar aberto a novas abordagens e ferramentas.
+A utilização de uma boa componentização demonstrou como pode facilitar a reutilização dos códigos, tornando o desenvolvimento mais eficiente e ágil.
+Essa experiência representou uma evolução significativa no meu trabalho como desenvolvedora front-end ao longo dos projetos. Desde o primeiro semestre, tenho percebido um constante aprimoramento profissional e um ganho de conhecimento. Estou extremamente grata pela oportunidade de me desafiar e concluir algo que estava fora da minha zona de conforto.</p>
+
+### Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>ApexCharts</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Material-UI</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+### Soft Skills
+
+**Trabalho em equipe**
+- <p align="justify">No decorrer desse projeto, o trabalho em equipe e uma comunicação clara foram como a cola que manteve tudo unido, especialmente na frente de desenvolvimento. A troca constante com meus colegas foi crucial para manter o fluxo de trabalho fluindo sem interrupções. Apesar de encontrarmos algumas divergências em certos pontos, conseguimos deixar de lado essas diferenças e permanecer unidos, focados em nossa meta comum. Essa experiência reforçou ainda mais nosso vínculo como equipe e nos ajudou a alcançar o sucesso do projeto de forma coletiva.</p>
+
+**Empatia**
+- <p align="justify">A empatia foi um pilar essencial em nosso projeto, especialmente quando enfrentamos momentos difíceis, como os colegas adoecendo. Esse acontecimento foi um lembrete gentil de que somos uma equipe de pessoas reais. Assumir temporariamente as responsabilidades deles não foi apenas uma questão de distribuir o trabalho, mas sim de demonstrar cuidado e solidariedade. Ao final, esses desafios fortaleceram nosso vínculo como equipe.</p>
+
+<a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
