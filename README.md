@@ -28,7 +28,7 @@
 ### Visão do Projeto
 <p align="justify">Com o intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvida a SPanel, uma plataforma que centralizou os principais dados da pandemia em uma interface de fácil navegação e entendimento. O principal objetivo da SPanel era reunir e apresentar as informações da pandemia da (COVID-19) no estado de São Paulo, de maneira simples e intuitiva, permitindo ao usuário diferentes tipos de visualizações.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/1.png" width="100%"></img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\spanel.jpg" width="100%"></img></p>
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/2.png" width="100%"></img></p>
 
@@ -123,14 +123,14 @@ Facilitava o acesso aos dados da aplicação pelo celular, tornando a experiênc
 ## <a name="2º-semestre"></a> 2º Semestre • 1/2022 - Sistema de Gerenciamento de Clientes
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.domrock.net" style="color: #007bff; text-decoration: none;">DOM ROCK</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/2/1.jpg"width="100%"></img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\domrock.jpg"width="100%"></img></p>
 
 ### Visão do Projeto
 <p align="justify">O Sistema de Gerenciamento de Clientes - Dom Rock, proporcionou uma solução para cadastro, consulta, edição e exportação de dados de clientes. Com foco na segurança, a aplicação implementou níveis de acesso para os usuários, garantindo a proteção dos dados. Além disso, a geração de logs permitiu um rastreamento detalhado das atividades na plataforma. Foi uma ferramenta completa e intuitiva que otimizou o gerenciamento de informações de clientes de forma eficiente.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/2/2.gif" width="100%"></img></p>
+<p align="center"><img src="Imagens\2\2.gif" width="100%"></img></p>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/2/3.jpg" width="100%"></img></p>
+<p align="center"><img src="Imagens\2\3.jpg" width="100%"></img></p>
 
 #### Funcionalidades
 <details>
@@ -221,16 +221,16 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 ## <a name="3º-semestre"></a> 3º Semestre • 2/2022 - Dashboard de Dados Meteorológicos
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.iacit.com.br" style="color: #007bff; text-decoration: none;">Iacit</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/3/1.jpg"width="100%"</img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\iacit.jpg"width="100%"</img></p>
 
 ### Visão do Projeto
 <p align="justify">Um Dashboard Meteorológico foi desenvolvido para a empresa IACIT. Ele proporcionava uma solução automatizada para baixar, processar e armazenar dados meteorológicos em um banco de dados de fácil utilização Os usuários podiam filtrar os dados por diferentes parâmetros, como temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação. Além disso, o dashboard exibia várias visualizações dos dados para facilitar a interpretação.</p>
 
 <p align="center">
-      <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
+      <img src="Imagens\3\3.gif" width="100%" height="100%">
 <p align="center">
 <p align="center">
-      <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-4/GIT/DERCSV.jpg" width="100%" height="100%">
+      <img src="Imagens\3\2.jpg" width="100%" height="100%">
 <p align="center">
 
 #### Funcionalidades
@@ -319,17 +319,17 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 
 ## <a name="4º-semestre"></a> 4º Semestre • 1/2023 - Aircraft Configuration Control
 
-<p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/4/1.png"width="100%"</img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\embraer.jpg"width="100%"</img></p>
 
 ### Visão do Projeto
 <p align="justify">Foi desenvolvido um software para a empresa de aeronaves, proporcionando aos usuários, acesso simples e intuitivo a toda a documentação das aeronaves por meio de dispositivos móveis. Essa iniciativa facilitou o acesso aos manuais e documentos em qualquer lugar e a qualquer momento, resultando em uma melhoria na eficiência operacional e na experiência do usuário.</p>
 
 <p align="center">
-      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
+      <img src="Imagens\4\2.gif" width="100%" height="100%">
 <p align="center">
       
 <p align="center">
-      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/dispositivos1.png" width="100%" height="100%">
+      <img src="Imagens\4\3.png" width="100%" height="100%">
 <p align="center">
 
 #### Funcionalidades
@@ -427,13 +427,13 @@ A interface administrativa foi criada para permitir aos administradores realizar
 
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.oracle.com" style="color: #007bff; text-decoration: none;">Oracle</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Fluffy-Fatec/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg" width="100%"></img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\oracle.jpg" width="100%"></img></p>
 
 ### Visão do Projeto
 
 <p align="justify">Foi desenvolvida uma plataforma online que permitia aos donos de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo era criar um sistema abrangente que oferecesse recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.</p>
 
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/bdec003eed03643f99d98f26d90118eb39682cfe/Imagens/5/2.gif" width="100%"></img></p>
+<p align="center"><img src="Imagens\5\2.gif" width="100%"></img></p>
 
 #### Funcionalidades
 
@@ -518,13 +518,13 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.img.com.br/pt-br/home" style="color: #007bff; text-decoration: none;">Imagem</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Fluffy-Fatec/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg" width="100%"></img></p>
+<p align="center"><img src="Imagens\empresas_parceiras\imagem.jpg" width="100%"></img></p>
 
 ### Visão do Projeto
 
 <p align="justify">No Projeto PandaLuze, buscamos entender profundamente o sentimento dos clientes através de uma plataforma avançada de análise de avaliações online. Utilizando tecnologias inovadoras, desenvolvemos um sistema que mapeava e visualizava os sentimentos dos clientes em um contexto geográfico real. Isso permitiu visualizar insights precisos para possibilitar às empresas ajustarem suas estratégias de negócios.</p>
 
-<p align="center"><img src="https://github.com/heyanaleal/PortfolioBD/blob/bdec003eed03643f99d98f26d90118eb39682cfe/Imagens/5/2.gif" width="100%"></img></p>
+<p align="center"><img src="Imagens\6\gif-imagem.gif" width="100%"></img></p>
 
 #### Funcionalidades
 
