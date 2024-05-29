@@ -17,19 +17,17 @@
 - [3º Semestre • 2/2022 - Dashboard de Dados Meteorológicos](#3º-semestre)
 - [4º Semestre • 1/2023 - Aircraft Configuration Control](#4º-semestre)
 - [5º Semestre • 2/2023 - Oracle Dinner](#5º-semestre)
-<!-- 
-- [6º Semestre](#6º-semestre)
--->
+- [6º Semestre • 1/2024 - S](#6º-semestre)
 ---
 
 ## <a name="1º-semestre"></a> 1º Semestre • 2/2021 - SPanel
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net" style="color: #007bff; text-decoration: none;">FATEC</a></p>
 
+<p align="center"><img src="Imagens\empresas_parceiras\spanel.jpg" width="100%"></img></p>
+
 ### Visão do Projeto
 <p align="justify">Com o intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvida a SPanel, uma plataforma que centralizou os principais dados da pandemia em uma interface de fácil navegação e entendimento. O principal objetivo da SPanel era reunir e apresentar as informações da pandemia da (COVID-19) no estado de São Paulo, de maneira simples e intuitiva, permitindo ao usuário diferentes tipos de visualizações.</p>
 
-<p align="center"><img src="Imagens\empresas_parceiras\spanel.jpg" width="100%"></img></p>
-<br>
 <p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/2.png" width="100%"></img></p>
 
 #### Funcionalidades
@@ -627,4 +625,4 @@ Essa experiência representou uma evolução significativa no meu trabalho como 
 **Empatia**
 - <p align="justify">A empatia foi um pilar essencial em nosso projeto, especialmente quando enfrentamos momentos difíceis, como os colegas adoecendo. Esse acontecimento foi um lembrete gentil de que somos uma equipe de pessoas reais. Assumir temporariamente as responsabilidades deles não foi apenas uma questão de distribuir o trabalho, mas sim de demonstrar cuidado e solidariedade. Ao final, esses desafios fortaleceram nosso vínculo como equipe.</p>
 
-<a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
+<a href="https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem">Repositório Github</a></h4>
