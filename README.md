@@ -205,8 +205,8 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 
 ### Soft Skills
 
-**Comunicação Assertiva**
-- <p align="justify">Como Product Owner, reconheci o papel crucial da comunicação clara para o sucesso do projeto. Enfrentamos momentos de conflito no grupo devido à falta de colaboração efetiva de todos os membros. Para resolver esse problema, realizamos reuniões e discutimos a importância da participação de todos para o sucesso do projeto. Conseguimos superar esse obstáculo através de uma comunicação clara e assertiva. Essa experiência destacou para mim a importância de uma comunicação eficaz e aberta em qualquer equipe de projeto.</p>
+**Inteligência Emocional**
+- <p align="justify">Durante o semestre, enfrentei um desafio pessoal significativo com o falecimento da minha avó, que desempenhava um papel importante e ativo na minha vida. Foi um momento difícil que exigiu resiliência e inteligência emocional. Apesar da dor da perda, consegui manter o equilíbrio emocional e continuar a desempenhar minhas responsabilidades acadêmicas e profissionais com dedicação e foco.</p>
 
 **Resiliência**
 - <p align="justify">Durante o projeto, aprendi a importância da resiliência diante dos obstáculos. No meio da terceira sprint, percebemos que a implementação inicial do projeto não teria o sucesso esperado. Decidimos refatorar o código, e a resiliência foi crucial para não desistirmos, especialmente diante das primeiras tentativas fracassadas.</p>
@@ -301,14 +301,11 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 
 ### Soft Skills
 
-**Visão de Negócio**
-- <p align="justify">Durante o curso do projeto, adquiri uma compreensão mais profunda das necessidades do cliente, o que foi essencial na orientação estratégica da equipe. Identifiquei oportunidades de crescimento e ajustei nossa abordagem para otimizar os resultados.</p>
-
 **Trabalho em Equipe**
-- <p align="justify">Como membro integrante do grupo, atuei ativamente na promoção de uma cultura colaborativa, incentivando a livre troca de ideias e fortalecendo a equipe. Acredito que a colaboração é fundamental para o sucesso de qualquer projeto.</p>
+- <p align="justify">Durante o projeto, após uma das entregas, a cliente expressou o desejo de ter os gráficos divididos em categorias em vez de um único dashboard com todo o conteúdo. Nesse momento, o trabalho em equipe foi fundamental para resolvermos a questão da implementação. Como uma das responsáveis pela criação dos gráficos, pude participar ativamente da divisão das tarefas e da implementação junto com a equipe.</p>
 
-**Resiliência**
-- <p align="justify">Enfrentamos desafios significativos ao longo do projeto, no entanto, mantive uma postura resiliente diante das adversidades. Em vez de desistir nas dificuldades, busquei abordagens criativas para superá-las, mantendo sempre o foco nos objetivos estabelecidos.</p>
+**Capacidade de Aprender Rapidamente**
+- <p align="justify">Durante o desenvolvimento do projeto, além de desempenhar o papel de Product Owner,me propus a contribuir ativamente para o desenvolvimento. Enfrentei o desafio de plotar o primeiro gráfico com os dados gerados pela API, algo que nunca havia realizado anteriormente, o que exigiu aprender rapidamente para conseguir realizar a entrega na sprint. Isso envolveu assistir a vídeos, ler documentações e realizar pesquisas para superar as dificuldades encontradas no caminho.</p>
 
 <a href="https://github.com/heyanaleal/Iacit">Repositório Github</a></h4>
 
@@ -410,11 +407,11 @@ A interface administrativa foi criada para permitir aos administradores realizar
 
 ### Soft Skills
 
-**Empatia**
-- <p align="justify">Durante o projeto, foquei em entender melhor meus colegas. Fiquei atenta às suas necessidades e preocupações, o que fortaleceu nossos laços. Isso criou um ambiente de trabalho mais positivo e colaborativo.</p>
+**Criatividade**
+- <p align="justify">Durante o projeto, enfrentamos desafios que exigiam soluções criativas para atividades desconhecidas. Em uma situação em que precisávamos de uma solução rápida, optamos por criar notificações por trigger no banco de dados. Essa abordagem nos permitiu armazenar informações e notificar o cliente sobre atualizações importantes, melhorando significativamente a funcionalidade do sistema.</p>
 
-**Trabalho em equipe**
-- <p align="justify">Valorizei muito o trabalho em equipe. Aprendi que quando cada um contribui com suas habilidades e experiências, conseguimos resultados incríveis. Dividimos as tarefas de forma eficiente e mantivemos uma comunicação aberta, o que nos permitiu superar as expectativas.</p>
+**Comunicação Assertiva**
+- <p align="justify">Durante o projeto, foi essencial exercitar minha habilidade de comunicação assertiva ao negociar as entregas com o cliente. Este aspecto foi fundamental para garantir que a equipe pudesse executar o projeto de forma eficaz, atendendo às expectativas estabelecidas. Essa interação pessoal foi crucial para alinhar as necessidades do cliente com as capacidades da equipe, resultando em um processo de trabalho mais fluido e produtivo.</p>
 
 <a href="https://github.com/heyanaleal/apiEmbraer4-sem">Repositório Github</a></h4>
 
@@ -502,10 +499,10 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Soft Skills
 
 **Planejamento e Organização**
-- <p align="justify">Adotei uma abordagem atenta no planejamento e organização das minhas tarefas para garantir o sucesso do projeto. Priorizei as atividades com base em prazos e complexidade, o que resultou em uma execução eficiente e pontual. Essa estratégia contribuiu  positivamente para o alcance dos objetivos dentro do cronograma estabelecido.</p>
+- <p align="justify">Durante o desenvolvimento do backend neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
 
 **Proatividade**
-- <p align="justify">Demonstrei proatividade ao oferecer suporte aos colegas e antecipar possíveis obstáculos. Minha iniciativa em identificar e resolver problemas de forma antecipada contribuiu para manter o projeto em progresso contínuo e para preservar o bem-estar da equipe.</p>
+- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
 
 <a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
 
@@ -621,7 +618,7 @@ Essa experiência representou uma evolução significativa no meu trabalho como 
 ### Soft Skills
 
 **Trabalho em equipe**
-- <p align="justify">No decorrer desse projeto, o trabalho em equipe e uma comunicação clara foram como a cola que manteve tudo unido, especialmente na frente de desenvolvimento. A troca constante com meus colegas foi crucial para manter o fluxo de trabalho fluindo sem interrupções. Apesar de encontrarmos algumas divergências em certos pontos, conseguimos deixar de lado essas diferenças e permanecer unidos, focados em nossa meta comum. Essa experiência reforçou ainda mais nosso vínculo como equipe e nos ajudou a alcançar o sucesso do projeto de forma coletiva.</p>
+- <p align="justify">Durante o desenvolvimento do projeto, enfrentamos momentos em que surgiram divergências de opinião sobre a melhor forma de implementar certas funcionalidades. No entanto, apesar dessas discussões, nossa equipe permaneceu unida e comprometida em trabalhar em conjunto para o sucesso do projeto. Mesmo que nem sempre estivéssemos de acordo, aprendemos a colaborar e a respeitar as decisões da maioria, priorizando o bem-estar do grupo e o alcance dos objetivos comuns.</p>
 
 **Empatia**
 - <p align="justify">A empatia foi um pilar essencial em nosso projeto, especialmente quando enfrentamos momentos difíceis, como os colegas adoecendo. Esse acontecimento foi um lembrete gentil de que somos uma equipe de pessoas reais. Assumir temporariamente as responsabilidades deles não foi apenas uma questão de distribuir o trabalho, mas sim de demonstrar cuidado e solidariedade. Ao final, esses desafios fortaleceram nosso vínculo como equipe.</p>
