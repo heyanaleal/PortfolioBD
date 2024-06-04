@@ -17,7 +17,7 @@
 - [3º Semestre • 2/2022 - Dashboard de Dados Meteorológicos](#3º-semestre)
 - [4º Semestre • 1/2023 - Aircraft Configuration Control](#4º-semestre)
 - [5º Semestre • 2/2023 - Oracle Dinner](#5º-semestre)
-- [6º Semestre • 1/2024 - S](#6º-semestre)
+- [6º Semestre • 1/2024 - Pandalyze](#6º-semestre)
 ---
 
 ## <a name="1º-semestre"></a> 1º Semestre • 2/2021 - SPanel
@@ -28,6 +28,8 @@
 ### Visão do Projeto
 <p align="justify">Com o intuito de aprimorar e agilizar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, foi desenvolvida a SPanel, uma plataforma que centralizou os principais dados da pandemia em uma interface de fácil navegação e entendimento. O principal objetivo da SPanel era reunir e apresentar as informações da pandemia da (COVID-19) no estado de São Paulo, de maneira simples e intuitiva, permitindo ao usuário diferentes tipos de visualizações.</p>
 
+<p align="center"><img src="Imagens\1\1.png" width="100%"></img></p>
+</br>
 <p align="center"><img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/2.png" width="100%"></img></p>
 
 #### Funcionalidades
@@ -110,10 +112,10 @@ Facilitava o acesso aos dados da aplicação pelo celular, tornando a experiênc
 ### Soft Skills
 
 **Organização e Planejamento**
-- <p align="justify">Durante o projeto, melhorei minha capacidade de me organizar e planejar, percebendo sua importância fundamental para o sucesso da equipe. Inicialmente enfrentei desafios com tecnologias desconhecidas, mas ao longo do tempo aprendi a me adaptar. Compreendi a necessidade de ajustar constantemente as estratégias para cumprir os prazos e manter o projeto fluindo.</p>
+- <p align="justify">Desde o início do projeto, sempre me mantive envolvida nas discussões sobre a divisão de tarefas do grupo. No começo, enfrentamos algumas dificuldades para dividir as tarefas de forma que todos pudessem contribuir de maneira eficaz. Em uma reunião aberta, sugerimos que dividíssemos o trabalho em tarefas menores para que todos pudessem participar ativamente. Acredito que essa abordagem foi um dos principais motivos para o sucesso do projeto.</p>
 
 **Proatividade**
-- <p align="justify">Durante o projeto, notei um crescimento significativo na minha proatividade. Cada desafio representava uma oportunidade de aprendizado e contribuição. Aprendi a antecipar obstáculos, identificar oportunidades de melhoria e agir rapidamente. Sempre me coloquei à disposição para enfrentar novos desafios, buscando extrair o máximo de aprendizado possível em cada situação.</p>
+- <p align="justify">Quando o semestre começou, eu não tinha absolutamente nenhum conhecimento sobre programação. Foi um desafio enorme. No entanto, ao longo de todo o projeto, fiz questão de ser proativa, aceitando desafios mesmo sem ter uma ideia clara de por onde começar, apenas para absorver mais conhecimento. Isso não só me ensinou muito, mas também me fez crescer consideravelmente como pessoa ao longo desse tempo, além de ampliar meu conhecimento técnico.</p>
 
 <a href="https://github.com/heyanaleal/SPanel">Repositório Github</a></h4>
 
@@ -204,13 +206,10 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 ### Soft Skills
 
 **Comunicação Assertiva**
-- <p align="justify">Como Product Owner, percebi o quanto uma comunicação clara foi essencial para o sucesso do projeto. Minha responsabilidade era transmitir os desejos do cliente à equipe de desenvolvimento de forma direta e fácil de entender. Garantir que todos estivessem na mesma página foi um desafio, mas abracei com determinação. Essa habilidade de comunicação ajudou muito a manter a equipe alinhada e a alcançar nossos objetivos.</p>
-
-**Inteligência Emocional**
-- <p align="justify">Durante o desenvolvimento do projeto, descobri que minha inteligência emocional desempenhou um papel essencial na gestão das relações interpessoais e na resolução de conflitos. Encontrei situações desafiadoras que exigiram calma, empatia e a capacidade de compreender as emoções dos membros da equipe, especialmente quando surgiram divergências de ideias e alguns colegas não estavam tão engajados quanto eu esperava. Ao aplicar a inteligência emocional, consegui manter um ambiente de trabalho positivo, motivador e colaborativo, mesmo quando enfrentávamos pressões e obstáculos.</p>
+- <p align="justify">Como Product Owner, reconheci o papel crucial da comunicação clara para o sucesso do projeto. Enfrentamos momentos de conflito no grupo devido à falta de colaboração efetiva de todos os membros. Para resolver esse problema, realizamos reuniões e discutimos a importância da participação de todos para o sucesso do projeto. Conseguimos superar esse obstáculo através de uma comunicação clara e assertiva. Essa experiência destacou para mim a importância de uma comunicação eficaz e aberta em qualquer equipe de projeto.</p>
 
 **Resiliência**
-- <p align="justify">Durante o projeto, aprendi que é preciso ser resiliente diante dos obstáculos. Houve momentos difíceis em que tive que me adaptar rapidamente, aprender com os erros e seguir em frente com confiança. Lidar com a pressão e os desafios foi complicado, mas a resiliência me permitiu persistir e focar em encontrar soluções positivas.</p>
+- <p align="justify">Durante o projeto, aprendi a importância da resiliência diante dos obstáculos. No meio da terceira sprint, percebemos que a implementação inicial do projeto não teria o sucesso esperado. Decidimos refatorar o código, e a resiliência foi crucial para não desistirmos, especialmente diante das primeiras tentativas fracassadas.</p>
 
 <a href="https://github.com/heyanaleal/Dom_Rock">Repositório Github</a></h4>
 
@@ -523,6 +522,8 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 <p align="justify">No Projeto PandaLuze, buscamos entender profundamente o sentimento dos clientes através de uma plataforma avançada de análise de avaliações online. Utilizando tecnologias inovadoras, desenvolvemos um sistema que mapeava e visualizava os sentimentos dos clientes em um contexto geográfico real. Isso permitiu visualizar insights precisos para possibilitar às empresas ajustarem suas estratégias de negócios.</p>
 
 <p align="center"><img src="Imagens\6\gif-imagem.gif" width="100%"></img></p>
+</br>
+<p align="center"><img src="Imagens\6\pandalyzefundo.jpg" width="100%"></img></p>
 
 #### Funcionalidades
 
