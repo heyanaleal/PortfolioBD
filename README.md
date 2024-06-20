@@ -1,10 +1,10 @@
 # Ana Clara Oliveira Leal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heyanaleal/PortfolioBD/main/Imagens/1/minhafoto.png" width="20%">
+  <img src="Imagens\1\minha-foto.png" width="20%">
 </p>
 
-<p align="justify">Olá! Sou Ana Clara Oliveira Leal, nascida em São José dos Campos, SP, e tenho 25 anos. Minha jornada acadêmica começou aos 17 anos na UNIP-SP, onde me formei em Pedagogia.</p>
+<p align="justify">Olá! Sou Ana Clara Oliveira Leal, nascida em São José dos Campos, SP, e tenho 26 anos. Minha jornada acadêmica começou aos 17 anos na UNIP-SP, onde me formei em Pedagogia.</p>
 <p align="justify">Ao longo do tempo, percebi que minha verdadeira paixão estava na área da tecnologia, algo que antes era apenas um hobby para mim. Decidi então seguir esse caminho e encontrei na Fatec a oportunidade perfeita para direcionar minha carreira. Foi lá que me encantei pela programação, algo que não apenas despertou meu interesse, mas se tornou a base sólida da minha futura trajetória profissional.</p>
 <p align="justify">Encarei os desafios com determinação, mergulhando de cabeça nos estudos e buscando sempre aprender mais. Essa jornada de aprendizado foi crucial para consolidar meu desejo de trabalhar na área.</p>
 <p align="justify">Durante meu terceiro semestre, tive a oportunidade de estagiar na Dom Rock, onde havia participado de uma API. Foi uma experiência enriquecedora, onde pude ampliar meus conhecimentos teóricos e adquirir experiência prática. Foi nesse ambiente que meu interesse pela área de dados cresceu ainda mais, explorando tecnologias como bancos de dados não relacionais, serviços em nuvem e técnicas de processamento e limpeza de dados em grande escala.</p>
@@ -508,7 +508,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ---
  
-## <a name="6º-semestre"></a> 6º Semestre • 1/2024 - PandaLuze
+## <a name="6º-semestre"></a> 6º Semestre • 1/2024 - PandaLyze
 
 <p style="text-align: justify;">Parceiro Acadêmico: <a href="https://www.img.com.br/pt-br/home" style="color: #007bff; text-decoration: none;">Imagem</a></p>
 
@@ -516,7 +516,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ### Visão do Projeto
 
-<p align="justify">No Projeto PandaLuze, buscamos entender profundamente o sentimento dos clientes através de uma plataforma avançada de análise de avaliações online. Utilizando tecnologias inovadoras, desenvolvemos um sistema que mapeava e visualizava os sentimentos dos clientes em um contexto geográfico real. Isso permitiu visualizar insights precisos para possibilitar às empresas ajustarem suas estratégias de negócios.</p>
+<p align="justify">O Projeto PandaLyze visa compreender o feedback dos clientes através de uma plataforma avançada de análise de avaliações online. Com o uso de tecnologias inovadoras, desenvolvemos um sistema que mapeia e visualiza os sentimentos dos clientes em contextos geográficos reais. Essa abordagem proporciona insights para que as empresas possam ajustar suas estratégias de negócios.</p>
 
 <p align="center"><img src="Imagens\6\gif-imagem.gif" width="100%"></img></p>
 </br>
