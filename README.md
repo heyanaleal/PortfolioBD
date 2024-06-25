@@ -343,7 +343,7 @@ Uma interface amigável foi desenvolvida para permitir aos usuários visualizare
 <details>
   <summary><b>Sistema de Configuração de Notificações para Atualizações</b></summary>
   
-Implentação de um sistema que permite aos usuários configurarem notificações para receberem alertas personalizados sobre atualizações relevantes no sistema.
+Implementação de um sistema que permite aos usuários configurarem notificações para receberem alertas personalizados sobre atualizações relevantes no sistema.
 </details>
 
 <details>
@@ -356,7 +356,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
 
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
 - [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
-- [Vue.js](https://vuejs.org): Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.
+- [Vue.js](https://vuejs.org): framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.
 - [JavaScript](https://www.javascript.com/): linguagem para desenvolvimento da aplicação para front-end.
 - [Autonomous Database](https://www.oracle.com/autonomous-database/): SGBD para desenvolvimento do Banco de Dados.
 
