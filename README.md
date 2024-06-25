@@ -268,7 +268,7 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 
 **Lições Aprendidas:**
 
-<p align="justify">Trabalhar com Spring Boot foi incrível, pois me proporcionou um entendimento maior sobre o desenvolvimento do back-end. Além disso, minha experiência com HTML e CSS me permitiu criar interfaces de usuário acessíveis, enriquecendo a experiência do usuário. Essas habilidades facilitaram a integração das necessidades do cliente com as soluções técnicas, resultando em um produto final mais sólido e eficiente.</p>
+<p align="justify">Trabalhar com Spring Boot foi incrível, pois me proporcionou um entendimento maior sobre o desenvolvimento do back-end. Além disso, minha experiência com HTML e CSS me permitiu criar interfaces de usuário acessíveis, enriquecendo a experiência do usuário. Essas habilidades facilitaram a integração das necessidades do cliente com as soluções técnicas, resultando em um produto mais sólido e eficiente.</p>
 
 ### Hard Skills  
 <table>
@@ -305,7 +305,7 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 - <p align="justify">Durante o projeto, após uma das entregas, a cliente expressou o desejo de ter os gráficos divididos em categorias em vez de um único dashboard com todo o conteúdo. Nesse momento, o trabalho em equipe foi fundamental para resolvermos a questão da implementação. Como uma das responsáveis pela criação dos gráficos, pude participar ativamente da divisão das tarefas e da implementação junto com a equipe.</p>
 
 **Capacidade de Aprender Rapidamente**
-- <p align="justify">Durante o desenvolvimento do projeto, além de desempenhar o papel de Product Owner,me propus a contribuir ativamente para o desenvolvimento. Enfrentei o desafio de plotar o primeiro gráfico com os dados gerados pela API, algo que nunca havia realizado anteriormente, o que exigiu aprender rapidamente para conseguir realizar a entrega na sprint. Isso envolveu assistir a vídeos, ler documentações e realizar pesquisas para superar as dificuldades encontradas no caminho.</p>
+- <p align="justify">Durante o desenvolvimento do projeto, além de desempenhar o papel de Product Owner, me propus a contribuir ativamente para o desenvolvimento. Enfrentei o desafio de plotar o primeiro gráfico com os dados gerados pela API, algo que nunca havia realizado anteriormente, o que exigiu aprender rapidamente para conseguir realizar a entrega na sprint. Isso envolveu assistir a vídeos, ler documentações e realizar pesquisas para superar as dificuldades encontradas no caminho.</p>
 
 <a href="https://github.com/heyanaleal/Iacit">Repositório Github</a></h4>
 
@@ -349,7 +349,7 @@ Implementação de um sistema que permite aos usuários configurarem notificaç�
 <details>
   <summary><b>Interface Administrativa para Modificação e Remoção de Clientes</b></summary>
   
-A interface administrativa foi criada para permitir aos administradores realizar modificações e remoções de clientes do banco de dados com facilidade e segurança.
+A interface administrativa foi criada para permitir aos administradores realizarem modificações e remoções de clientes do banco de dados com facilidade e segurança.
 </details>
 
 ### Tecnologias adotadas na solução
@@ -465,7 +465,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ### Contribuições pessoais
 
-<p align="justify">Como desenvolvedora backend, foram utilizadas as ferramentas Java, Spring Boot e JUnit para criar funcionalidades e testes. Foi um processo muito interessante aplicar meus conhecimentos para garantir uma implementação funcional e testá-la para assegurar sua eficiência. Essas tecnologias proporcionaram uma base para desenvolver soluções confiáveis, e a capacidade de testá-las adequadamente foi fundamental para garantir a qualidade do produto final. A experiência adquirida com o desenvolvimento deste trabalho me permitiu aprimorar minhas habilidades técnicas e fortalecer minha compreensão sobre a importância dos testes na construção de software de qualidade. Minhas atividades incluíram:
+<p align="justify">Como desenvolvedora backend, foram utilizadas as ferramentas Java, Spring Boot e JUnit para criar funcionalidades e testes. Foi um processo muito interessante aplicar meus conhecimentos para garantir uma implementação funcional e testá-la para assegurar sua eficiência. Essas tecnologias proporcionaram uma base para desenvolver soluções confiáveis, e a capacidade de testá-las adequadamente foi fundamental para garantir a qualidade do produto. A experiência adquirida com o desenvolvimento deste trabalho me permitiu aprimorar minhas habilidades técnicas e fortalecer minha compreensão sobre a importância dos testes na construção de software de qualidade. Minhas atividades incluíram:
 </p>
 
 - <p align="justify">Codificação das funcionalidades escrevendo o código em Java e Spring Boot para criar as funcionalidades.</p>
@@ -474,7 +474,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 **Lições Aprendidas:**
 
-<p align="justify">A minha experiência durante o semestre como desenvolvedora backend destacou a importância dos testes no ciclo de desenvolvimento de software. Utilizando Java, Spring Boot e JUnit, aprendi que os testes não são apenas uma etapa adicional, mas um processo fundamental para a construção de soluções confiáveis. Eles não só validam a implementação das funcionalidades, mas também contribuem para a detecção precoce de falhas, melhorando a manutenibilidade do código e garantindo a qualidade do produto final.</p>
+<p align="justify">A minha experiência durante o semestre como desenvolvedora backend destacou a importância dos testes no ciclo de desenvolvimento de software. Utilizando Java, Spring Boot e JUnit, aprendi que os testes não são apenas uma etapa adicional, mas um processo fundamental para a construção de soluções confiáveis. Eles não só validam a implementação das funcionalidades, mas também contribuem para a detecção precoce de falhas, melhorando a manutenibilidade do código e garantindo a qualidade do produto.</p>
 
 ### Hard Skills
 <table>
