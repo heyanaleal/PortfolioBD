@@ -425,7 +425,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
 
 ### Visão do Projeto
 
-<p align="justify">Foi desenvolvida uma plataforma online que permitia aos donos de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo era criar um sistema abrangente que oferecesse recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.</p>
+<p align="justify">Foi desenvolvida uma plataforma online que permitia aos donos de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo foi criar um sistema abrangente que oferecesse recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.</p>
 
 <p align="center"><img src="Imagens\5\2.gif" width="100%"></img></p>
 
@@ -457,7 +457,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Tecnologias adotadas na solução
 
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
-- [Vue.js](https://vuejs.org): Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.
+- [Vue.js](https://vuejs.org): framework JavaScript de código-aberto, focado no desenvolvimento de interfaces.
 - [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
 - [Oracle Analytics](https://www.oracle.com/business-analytics/): plataforma para análise de dados e geração de insights para auxiliar na tomada de decisões empresariais.
 - [Autonomous Database](https://www.oracle.com/autonomous-database/): SGBD para desenvolvimento do Banco de Dados.
@@ -465,12 +465,12 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ### Contribuições pessoais
 
-<p align="justify">Como desenvolvedora backend, utilizei Java, Spring Boot e JUnit para criar funcionalidades e testes. Foi um processo muito interessante aplicar meus conhecimentos para garantir uma implementação funcional e testá-la para assegurar sua eficiência. Essas tecnologias proporcionaram uma base para desenvolver soluções confiáveis, e a capacidade de testá-las adequadamente foi fundamental para garantir a qualidade do produto final. A experiência de trabalhar nesse contexto me permitiu aprimorar minhas habilidades técnicas e fortalecer minha compreensão sobre a importância dos testes na construção de software de qualidade. Minhas atividades incluíram:
+<p align="justify">Como desenvolvedora backend, foram utilizadas as ferramentas Java, Spring Boot e JUnit para criar funcionalidades e testes. Foi um processo muito interessante aplicar meus conhecimentos para garantir uma implementação funcional e testá-la para assegurar sua eficiência. Essas tecnologias proporcionaram uma base para desenvolver soluções confiáveis, e a capacidade de testá-las adequadamente foi fundamental para garantir a qualidade do produto final. A experiência adquirida com o desenvolvimento deste trabalho me permitiu aprimorar minhas habilidades técnicas e fortalecer minha compreensão sobre a importância dos testes na construção de software de qualidade. Minhas atividades incluíram:
 </p>
 
 - <p align="justify">Codificação das funcionalidades escrevendo o código em Java e Spring Boot para criar as funcionalidades.</p>
 - <p align="justify">Desenvolvimento de testes para verificar se o código funcionava corretamente e se comportava como esperado usando o JUnit para testes unitários.</p>
-- <p align="justify">Compreensão do que era necessário para implementar a funcionalidade descrita.</p>
+- <p align="justify">Compreensão da implementação do que era necessário para realizar a funcionalidade descrita.</p>
 
 **Lições Aprendidas:**
 
@@ -499,10 +499,10 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Soft Skills
 
 **Planejamento e Organização**
-- <p align="justify">Durante o desenvolvimento do backend neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
+- <p align="justify">Durante o desenvolvimento do backend, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
 
 **Proatividade**
-- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
+- <p align="justify">Durante o trabalho desenvolvido, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
 
 <a href="https://github.com/heyanaleal/Projeto-Integrador-Oracle">Repositório Github</a></h4>
 
@@ -516,7 +516,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ### Visão do Projeto
 
-<p align="justify">O Projeto PandaLyze visa compreender o feedback dos clientes através de uma plataforma avançada de análise de avaliações online. Com o uso de tecnologias inovadoras, desenvolvemos um sistema que mapeia e visualiza os sentimentos dos clientes em contextos geográficos reais. Essa abordagem proporciona insights para que as empresas possam ajustar suas estratégias de negócios.</p>
+<p align="justify">O Projeto PandaLyze visa compreender o feedback dos clientes através de uma plataforma avançada de análise de avaliações online. Com o uso de tecnologias inovadoras, foi desenvolvido um sistema que mapeia e visualize os sentimentos dos clientes em contextos geográficos reais. Esse sistema proporcionou insights para que as empresas possam ajustar suas estratégias de negócios.</p>
 
 <p align="center"><img src="Imagens\6\gif-imagem.gif" width="100%"></img></p>
 </br>
@@ -564,19 +564,19 @@ O logout manual oferecia aos usuários controle sobre suas próprias sessões. E
 
 - [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
 - [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
-- [Python](https://www.java.com/pt-BR/): é uma linguagem de programação de alto nível amplamente utilizada para análise de dados, machine learning, desenvolvimento web e uma variedade de outras aplicações.
-- [React](https://react.dev/): React é uma biblioteca JavaScript de código-aberto, focalizada no desenvolvimento de interfaces de usuário.
+- [Python](https://www.java.com/pt-BR/): linguagem de programação de alto nível amplamente utilizada para análise de dados, machine learning, desenvolvimento web e uma variedade de outras aplicações.
+- [React](https://react.dev/): biblioteca JavaScript de código-aberto, focalizada no desenvolvimento de interfaces de usuário.
 - [Material-UI](https://mui.com/material-ui/getting-started/installation/): é uma biblioteca de componentes React para construir interfaces de usuário consistentes e bonitas.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): utilizado para estilização do dashboard.
-- [ApexCharts](https://www.oracle.com/business-analytics/): é uma biblioteca JavaScript de gráficos interativos de código-aberto, que oferece uma ampla gama de opções para visualização de dados.
+- [ApexCharts](https://www.oracle.com/business-analytics/): biblioteca JavaScript de gráficos interativos de código-aberto, que oferece uma ampla gama de opções para visualização de dados.
 - [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
 - [Figma](https://www.figma.com/): ferramenta para o desenvolvimento e prototipação das wireframes. 
 
 ### Contribuições pessoais
 
 <p align="justify">Como desenvolvedora front-end, utilizei o React, Material-UI e CSS para criar as interfaces gráficas o mais componentizadas possível. Esta foi a primeira vez que trabalhei com o React em um projeto de grande escala, o que me permitiu compreender o funcionamento dessa tecnologia, bem como a importância dos hooks e da componentização, além da organização de pastas durante o desenvolvimento do projeto. Também estive envolvida na implementação de funcionalidades como níveis de usuários, gerenciamento de rotas e aspectos relacionados à segurança.
-O framework foi fundamental para agilizar o desenvolvimento das páginas, permitindo uma otimização significativa do nosso trabalho. Além disso, embora tenha aplicado meu conhecimento prévio em CSS de maneira diferente do habitual, isso foi essencial para realizar customizações de forma eficaz.
-Contribuí para a implementação dos gráficos, inicialmente utilizando a biblioteca do Google. No entanto, após uma análise mais detalhada, decidimos migrar para o ApexCharts, o que nos proporcionou uma formatação mais flexível dos gráficos, tornando-os mais agradáveis e intuitivos para o usuário. Também trabalhamos na geração de relatórios e notificações. Minhas principais atividades foram:
+O framework foi fundamental para agilizar o desenvolvimento das páginas, permitindo uma otimização significativa do meu trabalho. Além disso, embora tenha aplicado meu conhecimento prévio em CSS de maneira diferente do habitual, isso foi essencial para realizar customizações de forma eficaz.
+Contribuí para a implementação dos gráficos, inicialmente utilizando a biblioteca do Google. No entanto, após uma análise mais detalhada, foi decidido migrar para o ApexCharts, o que proporcionou uma formatação mais flexível dos gráficos, tornando-os mais agradáveis e intuitivos para o usuário. Também trabalhei na geração de relatórios e notificações. Minha principal atividade foi:
 </p>
 
 - <p align="justify">Componentização das interfaces para maximizar a reutilização de código.</p>
@@ -587,9 +587,9 @@ Contribuí para a implementação dos gráficos, inicialmente utilizando a bibli
 
 **Lições Aprendidas:**
 
-<p align="justify">Minha experiência como desenvolvedora front-end neste semestre destacou que o conhecimento prévio em uma ferramenta específica pode facilitar a aprendizagem de novas tecnologias. Além disso, percebi que o aprendizado é contínuo e é essencial estar aberto a novas abordagens e ferramentas.
+<p align="justify">Minha experiência como desenvolvedora front-end neste semestre destacou que o conhecimento prévio em uma ferramenta específica pode facilitar a aprendizagem de novas tecnologias. Além disso, percebi que o aprendizado é contínuo e essencial para novas abordagens e ferramentas.
 A utilização de uma boa componentização demonstrou como pode facilitar a reutilização dos códigos, tornando o desenvolvimento mais eficiente e ágil.
-Essa experiência representou uma evolução significativa no meu trabalho como desenvolvedora front-end ao longo dos projetos. Desde o primeiro semestre, tenho percebido um constante aprimoramento profissional e um ganho de conhecimento. Estou extremamente grata pela oportunidade de me desafiar e concluir algo que estava fora da minha zona de conforto.</p>
+Essa experiência representou uma evolução significativa no meu trabalho como desenvolvedora front-end ao longo do desenvolvimento dos projetos. Desde o primeiro semestre, tenho percebido um constante aprimoramento profissional e um ganho de conhecimento. Estou extremamente grata pela oportunidade de me desafiar e concluir algo que estava fora da minha zona de conforto.</p>
 
 ### Hard Skills
 <table>
